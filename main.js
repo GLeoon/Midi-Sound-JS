@@ -24,9 +24,3 @@ for (let i = 0; i < listaTeclas.length; i++) {
         element.classList.remove('ativa')
     }
 }
-
-// function tocaSom(){
-//     document.querySelector('#som_tecla_pom').play;
-// }
-
-// document.querySelector('.tecla_pom').onclick = tocaSom();
